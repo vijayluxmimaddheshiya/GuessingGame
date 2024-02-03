@@ -2,7 +2,7 @@
 
 ## *Vijay Luxmi*
 
-**Guessing Game** Guessing Game is is a game to choose the bigger number.
+**Guessing Game**: Guessing Game is is a game to choose the bigger number.
 
 Time spent: **2** hours spent in total
 
